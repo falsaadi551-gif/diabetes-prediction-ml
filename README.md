@@ -3,7 +3,7 @@
 An educational machine learning project that predicts diabetes using a classification model.
 
 ## Dataset
-Source: Kaggle - https://www.kaggle.com/datasets/...
+Source:https://www.kaggle.com/datasets/mragpavank/diabetes/data
 
 ## Libraries
 - pandas
